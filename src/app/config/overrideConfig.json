@@ -1,9 +1,9 @@
 [
     {
         "filterKey": "type",
-        "filterValue": "1",
-        "overrideKey": "name",
-        "overrideValue": "Z"
+        "filterValue": "Ćwiczenia",
+        "overrideKey": "backgroundColor",
+        "overrideValue": "#ff00ff"
     },
    {
         "filterKey": "name",
