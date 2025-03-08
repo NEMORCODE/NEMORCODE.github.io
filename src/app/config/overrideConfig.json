@@ -7,8 +7,8 @@
     },
    {
         "filterKey": "name",
-        "filterValue": "Botanika",
+        "filterValue": "Biofizyka",
         "overrideKey": "backgroundColor",
-        "overrideValue": "#ff00ff"
+        "overrideValue": "#8F00FF"
     }
 ]
