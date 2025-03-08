@@ -7,7 +7,7 @@
     },
     {
         "filterKey": "Ćwiczenia",
-        "filterValue": "2",
+        "filterValue": "Ćwiczenia",
         "overrideKey": "backgroundColor",
         "overrideValue": "#FF00FF0"
     }
