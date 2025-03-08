@@ -5,10 +5,10 @@
         "overrideKey": "name",
         "overrideValue": "Z"
     },
-    {
-        "filterKey": "Ćwiczenia",
+   {
+        "filterKey": "name",
         "filterValue": "Ćwiczenia",
         "overrideKey": "backgroundColor",
-        "overrideValue": "#FF00FF0"
+        "overrideValue": "#ff00ff"
     }
 ]
