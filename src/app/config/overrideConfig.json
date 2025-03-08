@@ -7,7 +7,7 @@
     },
    {
         "filterKey": "type",
-        "filterValue": "wykład",
+        "filterValue": "Wykład",
         "overrideKey": "backgroundColor",
         "overrideValue": "#8F00FF"
     }
