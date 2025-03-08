@@ -6,8 +6,8 @@
         "overrideValue": "#ff00ff"
     },
    {
-        "filterKey": "name",
-        "filterValue": "Biofizyka",
+        "filterKey": "type",
+        "filterValue": "wykład",
         "overrideKey": "backgroundColor",
         "overrideValue": "#8F00FF"
     }
