@@ -6,8 +6,8 @@
         "overrideValue": "Z"
     },
    {
-        "filterKey": "Botanika",
-        "filterValue": "Ćwiczenia",
+        "filterKey": "name",
+        "filterValue": "Botanika",
         "overrideKey": "backgroundColor",
         "overrideValue": "#ff00ff"
     }
