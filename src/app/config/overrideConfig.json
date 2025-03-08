@@ -12,3 +12,10 @@
         "overrideValue": "#8F00FF"
     }
 ]
+{
+        "filterKey": "type",
+        "filterValue": "Ćwiczenia i sem.",
+        "overrideKey": "backgroundColor",
+        "overrideValue": "#ff69b4"
+    }
+]
