@@ -6,7 +6,7 @@
         "overrideValue": "Z"
     },
     {
-        "filterKey": "type",
+        "filterKey": "Ćwiczenia",
         "filterValue": "2",
         "overrideKey": "backgroundColor",
         "overrideValue": "#FF00FF0"
