@@ -1,0 +1,189 @@
+[
+    {
+        "day": 1,
+        "classes": [
+            {
+                "name": "Podstawy chemii organicznej",
+                "timeStart": 1130,
+                "timeEnd": 1345,
+                "dateStart": "20.10.2025",
+                "dateEnd": "19.01.2026",
+                "type": "Seminaria.",
+                "place": ""
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "classes": [
+            {
+                "name": "Chemia fizyczna",
+                "timeStart": 945,
+                "timeEnd": 1115,
+                "dateStart": "28.10.2025",
+                "dateEnd": "29.10.2025",
+                "type": "Seminaria",
+                "place": ""
+            },
+            {
+                "name": "Chemia fizyczna",
+                "timeStart": 945,
+                "timeEnd": 1045,
+                "dateStart": "04.11.2025",
+                "dateEnd": "16.12.2025",
+                "type": "Seminaria",
+                "place": ""
+            },
+            {
+                "name": "Chemia fizyczna",
+                "timeStart": 1600,
+                "timeEnd": 1910,
+                "dateStart": "14.10.2025",
+                "dateEnd": "20.01.2026",
+                "type": "Ćwiczenia",
+                "place": ""
+            },
+            {
+                "name": "Higiena i epidemiologia",
+                "timeStart": 1200,
+                "timeEnd": 1515,
+                "dateStart": "14.10.2025",
+                "dateEnd": "18.11.2025",
+                "type": "Ćwiczenia i sem.",
+                "place": ""
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "classes": [
+            {
+                "name": "Chemia analityczna",
+                "timeStart": 8000,
+                "timeEnd": 930,
+                "dateStart": "15.10.2025",
+                "dateEnd": "19.11.2025",
+                "type": "Seminaria",
+                "place": ""
+            },
+            {
+                "name": "Chemia analityczna",
+                "timeStart": 945,
+                "timeEnd": 1515,
+                "dateStart": "08.10.2025",
+                "dateEnd": "19.11.2025",
+                "type": "Ćwiczenia",
+                "place": ""
+            },
+            {
+                "name": "Chemia analityczna ",
+                "timeStart": 800,
+                "timeEnd": 1330,
+                "dateStart": "26.11.2025",
+                "dateEnd": "21.01.2026",
+                "type": "Ćwiczenia",
+                "place": ""
+            },
+            {
+                "name": "Język angielski",
+                "timeStart": 1600,
+                "timeEnd": 1745,
+                "dateStart": "01.10.2025",
+                "dateEnd": "21.01.2025",
+                "type": "Ćwiczenia",
+                "place": ""
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "classes": [
+            {
+                "name": "Farmakokinetyka",
+                "timeStart": 1245,
+                "timeEnd": 1500,
+                "dateStart": "23.10.2025",
+                "dateEnd": "27.11.2025",
+                "type": "Ćwiczenia i sem.",
+                "place": ""
+            },
+            {
+                "name": "Patofizjologia ",
+                "timeStart": 1515,
+                "timeEnd": 1730,
+                "dateStart": "2.10.2025",
+                "dateEnd": "22.01.2026",
+                "type": "Ćwiczenia i sem.",
+                "place": ""
+            },
+            {
+                "name": "Higiena i epidemiologia",
+                "timeStart": 1845,
+                "timeEnd": 2015,
+                "dateStart": "2.10.2025",
+                "dateEnd": "30.10.2025",
+                "type": "Wykład",
+                "place": "Online"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "classes": [
+            {
+                "name": "Chemia analityczna",
+                "timeStart": 800,
+                "timeEnd": 945,
+                "dateStart": "03.10.2025",
+                "dateEnd": "19.12.2025",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Chemia fizyczna",
+                "timeStart": 1000,
+                "timeEnd": 1130,
+                "dateStart": "3.10.2025",
+                "dateEnd": "05.12.2025",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Patofizjologia",
+                "timeStart": 1415,
+                "timeEnd": 1500,
+                "dateStart": "10.10.2025",
+                "dateEnd": "23.01.2026",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Patofizjologia",
+                "timeStart": 1400,
+                "timeEnd": 1545,
+                "dateStart": "03.10.2025",
+                "dateEnd": "23.01.2026",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Podstawy chemii organicznej ",
+                "timeStart": 1600,
+                "timeEnd": 1845,
+                "dateStart": "03.10.2025",
+                "dateEnd": "31.10.2025",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Farmakokinetyka",
+                "timeStart": 1145,
+                "timeEnd": 1315,
+                "dateStart": "17.10.2025",
+                "dateEnd": "21.01.2026",
+                "type": "Wykład",
+                "place": "Online"
+            }
+        ]
+    }
+]
