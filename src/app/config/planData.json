@@ -178,9 +178,9 @@
             {
                 "name": "Farmakokinetyka",
                 "timeStart": 1145,
-                "timeEnd": 1315,
-                "dateStart": "17.10.2025",
-                "dateEnd": "21.01.2026",
+                "timeEnd": 1400,
+                "dateStart": "3.10.2025",
+                "dateEnd": "21.11.2025",
                 "type": "Wykład",
                 "place": "Online"
             }
