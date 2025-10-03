@@ -169,9 +169,18 @@
             {
                 "name": "Podstawy chemii organicznej ",
                 "timeStart": 1600,
-                "timeEnd": 1845,
+                "timeEnd": 1815,
                 "dateStart": "3.10.2025",
-                "dateEnd": "31.10.2025",
+                "dateEnd": "4.10.2025",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Podstawy chemii organicznej ",
+                "timeStart": 1530,
+                "timeEnd": 1745,
+                "dateStart": "10.10.2025",
+                "dateEnd": "7.11.2025",
                 "type": "Wykład",
                 "place": "Online"
             },
@@ -189,7 +198,7 @@
                 "timeStart": 1145,
                 "timeEnd": 1315,
                 "dateStart": "10.10.2025",
-                "dateEnd": "21.11.2025",
+                "dateEnd": "14.11.2025",
                 "type": "Wykład",
                 "place": "Online"
             }
