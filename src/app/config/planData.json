@@ -150,7 +150,7 @@
             },
             {
                 "name": "Patofizjologia",
-                "timeStart": 1415,
+                "timeStart": 1330,
                 "timeEnd": 1500,
                 "dateStart": "10.10.2025",
                 "dateEnd": "23.01.2026",
@@ -159,10 +159,10 @@
             },
             {
                 "name": "Patofizjologia",
-                "timeStart": 1400,
+                "timeStart": 1415,
                 "timeEnd": 1545,
                 "dateStart": "3.10.2025",
-                "dateEnd": "23.01.2026",
+                "dateEnd": "4.10.2025",
                 "type": "Wykład",
                 "place": "Online"
             },
