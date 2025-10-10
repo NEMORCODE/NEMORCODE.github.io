@@ -9,7 +9,7 @@
                 "dateStart": "20.10.2025",
                 "dateEnd": "19.01.2026",
                 "type": "Seminaria.",
-                "place": ""
+                "place": "Biblioteka Zakładu Chemii Organicznej"
             }
         ]
     },
@@ -23,7 +23,7 @@
                 "dateStart": "28.10.2025",
                 "dateEnd": "29.10.2025",
                 "type": "Seminaria",
-                "place": ""
+                "place": "s Krauzego"
             },
             {
                 "name": "Chemia fizyczna",
@@ -32,7 +32,7 @@
                 "dateStart": "4.11.2025",
                 "dateEnd": "16.12.2025",
                 "type": "Seminaria",
-                "place": ""
+                "place": "s Krauzego"
             },
             {
                 "name": "Chemia fizyczna",
@@ -41,7 +41,7 @@
                 "dateStart": "14.10.2025",
                 "dateEnd": "20.01.2026",
                 "type": "Ćwiczenia",
-                "place": ""
+                "place": "kostka 2 parter"
             },
             {
                 "name": "Higiena i epidemiologia",
@@ -80,7 +80,7 @@
                 "timeStart": 800,
                 "timeEnd": 1330,
                 "dateStart": "26.11.2025",
-                "dateEnd": "21.01.2026",
+                "dateEnd": "19.12.2025",
                 "type": "Ćwiczenia",
                 "place": ""
             },
@@ -105,7 +105,7 @@
                 "dateStart": "23.10.2025",
                 "dateEnd": "27.11.2025",
                 "type": "Ćwiczenia i sem.",
-                "place": ""
+                "place": "206 CD"
             },
             {
                 "name": "Patofizjologia ",
@@ -114,7 +114,7 @@
                 "dateStart": "2.10.2025",
                 "dateEnd": "22.01.2026",
                 "type": "Ćwiczenia i sem.",
-                "place": ""
+                "place": "Sala 119CBI"
             },
             {
                 "name": "Higiena i epidemiologia",
@@ -181,6 +181,15 @@
                 "timeEnd": 1745,
                 "dateStart": "10.10.2025",
                 "dateEnd": "7.11.2025",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Podstawy chemii organicznej ",
+                "timeStart": 1530,
+                "timeEnd": 1745,
+                "dateStart": "21.11.2025",
+                "dateEnd": "12.12.2025",
                 "type": "Wykład",
                 "place": "Online"
             },
