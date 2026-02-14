@@ -1,0 +1,216 @@
+[
+    {
+        "day": 1,
+        "classes": [
+            {
+                "name": "Synteza i identyfikacja związków organicznych",
+                "timeStart": 800,
+                "timeEnd": 1400,
+                "dateStart": "16.02.2026",
+                "dateEnd": "8.06.2026",
+                "type": "Ćwiczenia",
+                "place": ""
+            },
+            {
+                "name": "Eknomia i zarządzanie w farmacji ",
+                "timeStart": 800,
+                "timeEnd": 1400,
+                "dateStart": "16.02.2026",
+                "dateEnd": "8.06.2026",
+                "type": "Wykład",
+                "place": ""
+            },
+            {
+                "name": "Biologia molekularna",
+                "timeStart": 800,
+                "timeEnd": 1400,
+                "dateStart": "16.02.2026",
+                "dateEnd": "30.03.2026",
+                "type": "Wykład",
+                "place": ""
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "classes": [
+            {
+                "name": "Biomateriały w technologii postaci leku ",
+                "timeStart": 1915,
+                "timeEnd": 2045,
+                "dateStart": "14.02.2026",
+                "dateEnd": "6.06.2026",
+                "type": "Wykład",
+                "place": ""
+            },
+            {
+                "name": "Immunologia ",
+                "timeStart": 1030,
+                "timeEnd": 1200,
+                "dateStart": "24.02.2026",
+                "dateEnd": "24.05.2026",
+                "type": "Ćwiczenia i sem.",
+                "place": "211cd"
+            },
+            {
+                "name": "Biochemia",
+                "timeStart": 1230,
+                "timeEnd": 1630,
+                "dateStart": "24.02.2026",
+                "dateEnd": "21.04.2026",
+                "type": "Ćwiczenia",
+                "place": ""
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "classes": [
+            {
+                "name": "Chemia analityczna",
+                "timeStart": 800,
+                "timeEnd": 1145,
+                "dateStart": "18.02.2026",
+                "dateEnd": "10.06.2026",
+                "type": "Ćwiczenia",
+                "place": ""
+            },
+            {
+                "name": "Biochemia",
+                "timeStart": 945,
+                "timeEnd": 1515,
+                "dateStart": "25.02.2026",
+                "dateEnd": "13.05.2026",
+                "type": "Seminaria",
+                "place": "106cbi"
+            },
+            {
+                "name": "Biologia molekularna",
+                "timeStart": 1845,
+                "timeEnd": 2015,
+                "dateStart": "11.03.2026",
+                "dateEnd": "12.03.2026",
+                "type": "Wykład",
+                "place": ""
+            },
+            {
+                "name": "Biochemia",
+                "timeStart": 1845,
+                "timeEnd": 2015,
+                "dateStart": "18.02.2026",
+                "dateEnd": "22.04.2026",
+                "type": "Wykład",
+                "place": ""
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "classes": [
+            {
+                "name": "Biologia molekularna",
+                "timeStart": 1230,
+                "timeEnd": 1615,
+                "dateStart": "5.03.2026",
+                "dateEnd": "12.03.2026",
+                "type": "Ćwiczenia",
+                "place": ""
+            },
+            {
+                "name": "Immunologia",
+                "timeStart": 1715,
+                "timeEnd": 1845,
+                "dateStart": "19.02.2026",
+                "dateEnd": "19.03.2026",
+                "type": "Wykład",
+                "place": ""
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "classes": [
+            {
+                "name": "Język angielski II",
+                "timeStart": 1200,
+                "timeEnd": 1345,
+                "dateStart": "20.02.2026",
+                "dateEnd": "12.06.2026",
+                "type": "Ćwiczenia",
+                "place": ""
+            },
+            {
+                "name": "Chemia analityczna ",
+                "timeStart": 940,
+                "timeEnd": 1150,
+                "dateStart": "20.02.2026",
+                "dateEnd": "21.02.2026",
+                "type": "Wykład",
+                "place": ""
+            },
+            {
+                "name": "Chemia analityczna",
+                "timeStart": 800,
+                "timeEnd": 930,
+                "dateStart": "27.02.2026",
+                "dateEnd": "12.06.2026",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Biologia molekularna",
+                "timeStart": 945,
+                "timeEnd": 1115,
+                "dateStart": "6.03.2026",
+                "dateEnd": "13.03.2026",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Synteza i identyfikacja związków organicznych",
+                "timeStart": 800,
+                "timeEnd": 930,
+                "dateStart": "27.02.2026",
+                "dateEnd": "28.02.2026",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Wstęp do kosmetologii farmaceutycznej",
+                "timeStart": 1400,
+                "timeEnd": 1530,
+                "dateStart": "6.03.2026",
+                "dateEnd": "10.04.2026",
+                "type": "Seminaria",
+                "place": ""
+            },
+            {
+                "name": "Wybrane zagadnienia analizy farmaceutycznej, farmakokinetycznej i toksykologicznej",
+                "timeStart": 1545,
+                "timeEnd": 1715,
+                "dateStart": "6.03.2026",
+                "dateEnd": "10.04.2026",
+                "type": "Seminaria",
+                "place": ""
+            },
+            {
+                "name": "Farmakokinetyka",
+                "timeStart": 1145,
+                "timeEnd": 1400,
+                "dateStart": "3.10.2025",
+                "dateEnd": "4.10.2025",
+                "type": "Wykład",
+                "place": "Online"
+            },
+            {
+                "name": "Farmakokinetyka",
+                "timeStart": 1145,
+                "timeEnd": 1315,
+                "dateStart": "10.10.2025",
+                "dateEnd": "14.11.2025",
+                "type": "Wykład",
+                "place": "Online"
+            }
+        ]
+    }
+]
